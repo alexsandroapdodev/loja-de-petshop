@@ -13,12 +13,10 @@ Funcionalidades
 - Componentes acessíveis e modernos via shadcn/ui
 - Seções bem estruturadas: banner, lojas, produtos, avaliações e rodapé
 
-📱 Responsividade
-
 Desenvolvido para se adaptar a:
 
-- 📱 Celulares (ex: Moto G22, Galaxy S8+)
-- 💻 Desktop (layout fixo em 1520px)
+- 📱 Celulares 
+- 💻 Desktop 
 - 🧾 Tablets
 
 🚀 Objetivo
