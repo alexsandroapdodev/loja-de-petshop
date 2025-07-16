@@ -28,5 +28,6 @@ Desenvolvido para se adaptar a:
 - Utilizar design moderno com Tailwind e shadcn/ui
 - Criar layout com estrutura semântica, acessível e otimizada
 
-<img width="1920" height="1032" alt="loja-de-pet-shop" src="https://github.com/user-attachments/assets/2e7a4535-b1f6-42a3-9f84-47552a6cd464" />
+<img width="1920" height="989" alt="loja-de-pet-shop" src="https://github.com/user-attachments/assets/5e7e1d1d-5276-4569-ba4f-3d90ce5aa25f" />
+
 
