@@ -106,7 +106,8 @@ export function Services() {
                         <span>{item.duration}</span>
                       </div>
                       <a
-                        href="#"
+                        target="_blank"
+                        href={`https://wa.me/5515997122097?text=Olá vim pelo site e gostaria de mais informações sobre ${item.title}`}
                         className="flex items-center justify-center gap-2 hover:bg-red-500 px-4 py-1 rounded-md duration-300"
                       >
                         <WhatsappLogoIcon className="w-5 h-5" />
@@ -119,14 +120,14 @@ export function Services() {
             </div>
           </div>
           <button
-            className="bg-white  flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute left-3 -translate-y-1/2 -translate-x-1/2 top-1/2 z-10"
+            className="bg-white cursor-pointer flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute left-3 -translate-y-1/2 -translate-x-1/2 top-1/2 z-10"
             onClick={scrollPrev}
           >
             <ChevronLeft className="w-6 h-6 text-gray-600" />
           </button>
 
           <button
-            className="bg-white  flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute -right-6 -translate-y-1/2 -translate-x-1/2 top-1/2 z-10"
+            className="bg-white cursor-pointer flex items-center justify-center rounded-full shadow-lg w-10 h-10 absolute -right-6 -translate-y-1/2 -translate-x-1/2 top-1/2 z-10"
             onClick={scrollNext}
           >
             <ChevronRight className="w-6 h-6 text-gray-600" />
