@@ -41,7 +41,7 @@ export function About() {
             data-aos="fade-up-left"
             data-aos-delay="300"
           >
-            <h2 className="text4xl font-bold"></h2>
+            <h2 className="text4xl font-bold">Sobre a Loja Petshop</h2>
 
             <p>
               Até que alguém ame um animal, uma parte da sua alma permanece
@@ -62,7 +62,7 @@ export function About() {
               </li>
               <li className="flex items-center gap-2">
                 <Check className="text-red-500" />
-                Qualidade [e nossa prioridade.]
+                Qualidade é nossa prioridade.
               </li>
             </ul>
 

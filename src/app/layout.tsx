@@ -14,10 +14,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Loja Petshop",
+  title: "Loja de Petshop",
   description: "descrição personalizada",
   icons: {
-    icon: "/favicon.svg",
+    icon: "/favicon.ico",
   },
 };
 export default function RootLayout({
