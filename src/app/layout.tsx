@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Loja Petshop",
   description: "descrição personalizada",
   icons: {
-    icon: "/public/favicon.ico.svg",
+    icon: "/public/favicon.svg",
   },
 };
 export default function RootLayout({
