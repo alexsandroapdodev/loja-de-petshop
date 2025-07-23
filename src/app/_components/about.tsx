@@ -69,7 +69,7 @@ export function About() {
             <div className="flex gap-2">
               <a
                 target="_blank"
-                href={`https://wa.me/5515997122097?text=Olá vim pelo site e gostaria de mais informações`}
+                href={`https://wa.me/5515997129097?text=Olá vim pelo site e gostaria de mais informações`}
                 className="bg-[#e84c3d] text-white flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
               >
                 <WhatsappLogoIcon className="w-5 h-5 text-white" />

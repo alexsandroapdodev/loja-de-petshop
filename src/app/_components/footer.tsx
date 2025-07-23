@@ -56,7 +56,7 @@ export function Footer() {
             </p>
             <a
               target="_blank"
-              href={`https://wa.me/5515997122097?text=Olá vim pelo site e gostaria de mais informações`}
+              href={`https://wa.me/5515997129097?text=Olá vim pelo site e gostaria de mais informações`}
               className="bg-green-500 px-4 py-1 rounded-md mt-4"
             >
               Contato via WhatsApp
